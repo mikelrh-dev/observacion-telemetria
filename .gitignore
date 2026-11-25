@@ -3,9 +3,13 @@
 
 # Contenido actual que se excluye por ahora (rutas explícitas)
 /ANALISIS_FUENTES.md
+/data/samples/api_rest_muestra.txt
 /brief/apuntesProfesora.txt
 /contrato/Modelo_contrato_equipo.docx
 /docs/memoria/plantilla/Plantilla_ETHAZI.dotx
+
+# Datos temporales de trabajo (carpeta y todo su contenido)
+/datosTemporales/
 
 # Artefactos generados
 /data/outputs/
