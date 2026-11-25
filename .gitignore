@@ -1,0 +1,7 @@
+# Ficheros temporales de bloqueo de LibreOffice
+.~lock.*
+
+# Contenido actual que se excluye por ahora (rutas explícitas)
+/brief/apuntesProfesora.txt
+/contrato/Modelo_contrato_equipo.docx
+/docs/memoria/plantilla/Plantilla_ETHAZI.dotx
