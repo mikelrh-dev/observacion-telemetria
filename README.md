@@ -28,9 +28,15 @@ los originales permanecen en HDFS sin modificar.
   El lake auténtico está en HDFS: /ethazi/bronze, /ethazi/silver, /ethazi/gold.
 - docs/ = memoria acumulativa, arquitectura y evidencias de cada hito.
 
+## Enlaces del proyecto
+
+- Repo GitHub: https://github.com/mikelrh-dev/observacion-telemetria
+- Project Kanban: https://github.com/users/mikelrh-dev/projects/4
+
 ## Estado
 
-Repo local y GitHub público. Projects y Airflow pendientes. GitHub con incidencias el 25 nov.
+Repo local y GitHub público. Project de GitHub creado, vinculado al repo y configurado
+con los 8 hitos y sus fechas. Airflow pendiente. GitHub con incidencias el 25 nov.
 
 ## Pendiente
 
